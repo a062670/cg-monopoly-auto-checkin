@@ -1,0 +1,1 @@
+schtasks /delete /tn "cg-monopoly-auto-checkin" /f
